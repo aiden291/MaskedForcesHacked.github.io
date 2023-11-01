@@ -1,6 +1,9 @@
-hello free unblocked games at school
-<title>UNBLOCKED GAMES AT SCHOOL</title>
 <!DOCTYPE html>
-<html lang="en">
-<link>"https://maskedforcesunlimited.github.io/"</link>
+<html>
+<head>
+    <title>Masked Forces Hacked</title>
+</head>
+<body>
+    <iframe src="https://maskedforcesunlimited.github.io/" width="100%" height="600"></iframe>
+</body>
 </html>
